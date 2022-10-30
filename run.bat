@@ -1,0 +1,1 @@
+cd "D:\Atom\Python\Utility\SuperDisplayFlip" & .venv\Scripts\activate & pythonw run.py
